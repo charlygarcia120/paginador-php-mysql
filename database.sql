@@ -30,7 +30,7 @@ CREATE TABLE IF NOT EXISTS `tabla1` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `nombre` varchar(36) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1001 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
 --
 -- Volcado de datos para la tabla `tabla1`
