@@ -4,6 +4,9 @@
 </head>
 <body>
 <?php
+    //Localhost installation 
+    //http://127.0.0.1/pruebas/paginator
+    
     $posicion=$_GET["pos"];					
     $records_per_page=10;
     
